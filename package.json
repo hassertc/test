@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  }
+}
